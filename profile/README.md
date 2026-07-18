@@ -29,6 +29,7 @@ We sit at the bottom layer of every product we ship.
 |--|--|
 | [re.password](https://github.com/dot-stbl/re.password) | smart password manager |
 | [anlytra](https://github.com/dot-stbl/anlytra) | crypto analytics for algorithmic trading |
+| [plexor](https://github.com/dot-stbl/plexor) | self-hosted cloud platform |
 | [notifliwy](https://github.com/dot-stbl/notifliwy) | .NET notifications library |
 | [cyclex](https://github.com/dot-stbl/cyclex) | task scheduler |
 | [synaptix.packages](https://github.com/dot-stbl/synaptix.packages) | common .NET packages |
