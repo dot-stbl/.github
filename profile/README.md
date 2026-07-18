@@ -1,10 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../assets/logo-light.svg">
-  <img src="../assets/logo.svg" alt="" width="160">
-</picture>
-
-<br>
-
 # small studio
 
 **open source software**
