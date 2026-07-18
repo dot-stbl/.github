@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  lockup-template.svg — generic "ProductName by .stbl" template
+  Replace "ProductName" with your product name.
+  If your product name is significantly longer or shorter than "ProductName"
+  (which is 11 chars), adjust:
+    - the viewBox width (W)
+    - the x position of "by" (calc as ~ product-name-width + 20 )
+    - the x position of the dot block (calc as ~ product-name-width + 130)
+    - the x position of "stbl" (calc as ~ product-name-width + 170 )
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" role="img" aria-label="ProductName by .stbl">
+  <title>ProductName by .stbl</title>
+  <text x="0" y="105"
+        font-family="'JetBrains Mono', ui-monospace, monospace"
+        font-size="100"
+        font-weight="700"
+        fill="#000"
+        letter-spacing="-4">ProductName</text>
+  <text x="540" y="105"
+        font-family="'JetBrains Mono', ui-monospace, monospace"
+        font-size="48"
+        font-weight="400"
+        fill="#888"
+        letter-spacing="-1">by</text>
+  <rect x="620" y="73" width="32" height="32" fill="#000"/>
+  <text x="662" y="105"
+        font-family="'JetBrains Mono', ui-monospace, monospace"
+        font-size="100"
+        font-weight="700"
+        fill="#000"
+        letter-spacing="-3">stbl</text>
+</svg>
