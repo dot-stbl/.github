@@ -1,6 +1,13 @@
-# small studio
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dot-stbl/.github/main/assets/wordmark-dark.svg">
+  <img src="https://raw.githubusercontent.com/dot-stbl/.github/main/assets/wordmark.svg" alt=".stbl" width="180">
+</picture>
 
-**open source software**
+<br>
+
+**Open source software.**
+
+Find us at **[stbl.space](https://stbl.space)** — what we ship and what's coming next.
 
 Apps, libraries, and tools. Mostly .NET. All of it open source.
 
@@ -33,4 +40,4 @@ We sit at the bottom layer of every product we ship.
 
 ---
 
-<sub>pure B&W · monospace only</sub>
+<sub>pure B&W · monospace only · [stbl.space](https://stbl.space)</sub>
