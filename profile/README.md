@@ -7,9 +7,9 @@
 
 **Open source software.**
 
-Find us at **[stbl.space](https://stbl.space)** — what we ship and what's coming next.
+The full list of repositories lives at **[github.com/dot-stbl](https://github.com/dot-stbl)**.
 
-Apps, libraries, and tools. Mostly .NET. All of it open source.
+What we ship and what's coming next — **[stbl.space](https://stbl.space)**.
 
 ---
 
@@ -19,25 +19,4 @@ We sit at the bottom layer of every product we ship.
 
 ---
 
-## Projects
-
-### Apps
-
-- [re.password](https://github.com/dot-stbl/re.password) — password manager
-- [plexor](https://github.com/dot-stbl/plexor) — self-hosted cloud platform
-- [anlytra](https://github.com/dot-stbl/anlytra) — crypto analytics for algo traders
-
-### Libraries & tools
-
-- [notifliwy](https://github.com/dot-stbl/notifliwy) — distributed notifications for .NET
-- [cyclex](https://github.com/dot-stbl/cyclex) — task scheduler
-- [synaptix.packages](https://github.com/dot-stbl/synaptix.packages) — shared .NET utilities
-- [kubix](https://github.com/dot-stbl/kubix) — TBD
-
-### Meta
-
-- [brand](https://github.com/dot-stbl/brand) — design rules, assets, templates
-
----
-
-<sub>pure B&W · monospace only · [stbl.space](https://stbl.space)</sub>
+<sub>pure B&W · monospace only</sub>
